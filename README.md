@@ -28,7 +28,6 @@ This project is a **predictive web application** that forecasts JEE admission ou
 - **Frontend:** Next.js
 - **Backend:** Flask
 - **Data Processing:** Pandas, NumPy
-- **Deployment:** [Your deployment platform, e.g., Vercel, Heroku]
 - **Other Tools:** Axios / Fetch API for frontend-backend communication
 
 ---
@@ -81,5 +80,6 @@ Visit: **http://localhost:3000** to access the web application.
 - Average API response: 3–4 seconds
 
 - Real-time prediction updates for improved UX
+
 
 
